@@ -2,9 +2,13 @@
 My project in IBM data science course
 
 Week 1 : Contain a tester file
+
 Week 2 : Learn Foursquare API
+
 Week 3 : Learn KMeans Clustering
+
 Week 4 : Battle of Neighborhood 1
+
 Week 5 : Battle of Neighborhood 2
 
 Battle of Neighborhood is a data science capstone project in IBM Data Science Proffesional Certification
