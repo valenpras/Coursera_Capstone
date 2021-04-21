@@ -16,4 +16,6 @@ I am tasked to create a data science project involving spatial visualization (Fo
 
 The topic I picked is analyzing Airbnb dataset, because it reminded me of my previous project which I thought could be improved if I could make use of location information.
 
-This repository include my files from previous projects and new project in this coursera capstone course
+This repository include my files from previous projects and new project in this coursera capstone course.
+
+Note: Please try to reload if ipython notebook not loading. Usually takes two or three reload until page shows up. Thank you
