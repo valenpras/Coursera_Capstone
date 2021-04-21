@@ -12,7 +12,7 @@ Week 4 : Battle of Neighborhood 1
 Week 5 : Battle of Neighborhood 2
 
 Battle of Neighborhood is a data science capstone project in IBM Data Science Proffesional Certification
-I am tasked to create a data science project involving spatial visualization (Folium), spatial analysis (KMeans), and scraping spatial data using Foursquare API
+I am tasked to create a data science project involving spatial visualization (Folium), spatial clustering (KMeans), and scraping spatial data using Foursquare API
 
 The topic I picked is analyzing Airbnb dataset, because it reminded me of my previous project which I thought could be improved if I could make use of location information.
 
